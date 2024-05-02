@@ -1,0 +1,8 @@
+grasp-anything++/*
+checkpoints/*
+wandb/*
+
+__pycache__/*
+
+runs/*
+*.pyc
