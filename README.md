@@ -1,7 +1,7 @@
 # Language Driven Object Grasping via Feature Augmentation
 
 # Abstract 
-To address the challenge of few-shot learning in language-driven grasp detection, we introduce GraspLLaMA. This approach enhances data robustness through augmentation and leverages transfer learning to effectively train on limited datasets.
+To address the challenge of few-shot learning in language-driven grasp detection, we introduce GraspLLaMA. This approach enhances data robustness through augmentation and leverages transfer learning to effectively train on limited datasets. [Paper](Grasp_detection.pdf)
 
 ## Setup
 First, clone the LLaVa repository and install the dependencies:
